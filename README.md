@@ -2,6 +2,20 @@
 
 This script takes the amount of power plants and compares it to the amount of buildings in a given region. Good to quickly know how the power consuption in your state is balanced.
 
-Once installed you should see the surplus(green) or deficit(red), right below the list of buildings as shown below:
+Once installed you should see the surplus(green) or deficit(red):
 
-![meme]()
+![meme](https://raw.githubusercontent.com/pbl0/power-plant/master/drake-powerplant.png)
+
+
+### Installation
+
+- Read [how to use user scripts for RR][guide].
+- [Click  to install][raw].
+- Check out my [RR script collection][scripts].
+
+
+[guide]: https://github.com/pbl0/rr-scripts/blob/main/guide.md
+
+[scripts]: https://github.com/pbl0/rr-scripts/blob/main/README.md
+
+[raw]: https://github.com/pbl0/auto-perk/raw/main/auto-perk.user.js
