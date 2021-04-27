@@ -7,15 +7,15 @@ Once installed you should see the surplus(green) or deficit(red):
 
 <img src="https://raw.githubusercontent.com/pbl0/power-plant/master/drake-powerplant.png" alt="meme" width="550"/>
 
-### Installation
+## Installation
 
 - Read [how to use user scripts for RR][guide].
-- [Click  to install][raw].
-- Check out my [RR script collection][scripts].
+- [Install script][raw].
+- Check out my [other scripts][scripts].
 
 
-[guide]: https://github.com/pbl0/rr-scripts/blob/main/guide.md
+[guide]: https://rr-tools.eu/guide
 
-[scripts]: https://github.com/pbl0/rr-scripts/blob/main/README.md
+[scripts]: https://rr-tools.eu/mods
 
 [raw]: https://github.com/pbl0/auto-perk/raw/main/auto-perk.user.js
